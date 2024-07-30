@@ -1,0 +1,2 @@
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/com/soen6011/project/Main.java:10:	UseUtilityClass:	This utility class has a non-private constructor
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/com/soen6011/project/Tangent.java:6:	UseUtilityClass:	This utility class has a non-private constructor

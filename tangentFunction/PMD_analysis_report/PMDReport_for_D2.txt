@@ -1,0 +1,6 @@
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Main.java:6:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Main.java:6:	UseUtilityClass:	This utility class has a non-private constructor
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Main.java:9:	LambdaCanBeMethodReference:	Lambda expression could be written as a method reference: `Main::createAndShowGUI`
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Main.java:82:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Tangent.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+/Users/itshisher/Desktop/Master degree/Summer 2024/SOEN6011/project/SOEN6011_project_tangent_function/tangentFunction/src/Tangent.java:1:	UseUtilityClass:	This utility class has a non-private constructor
