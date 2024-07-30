@@ -44,4 +44,11 @@ verify sonar:sonar
 ### Semantic Versioning
 Semantic Versioning provided by logs in the txt file called **version**.
 
+### Junit test cases
+This project uses JUnit for unit testing. To run the tests, execute:
+```bash
+mvn test
+```
+Make sure the directory is under the main folder **tangentFunction**.
+
 
