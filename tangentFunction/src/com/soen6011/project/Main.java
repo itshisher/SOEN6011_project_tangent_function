@@ -1,5 +1,4 @@
 package com.soen6011.project;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.Locale;
