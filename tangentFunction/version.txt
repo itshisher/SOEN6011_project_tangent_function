@@ -1,0 +1,22 @@
+## [1.1.3] - 2024-07-30
+### Tested
+- Unit test cases performed on Tangent class.
+
+## [1.1.2] - 2024-07-30
+### Fixed
+- Fix four code smells detected by SonarQube.
+
+## [1.1.1] - 2024-07-30
+### Added and major fixed
+- Package Declaration: Ensures the class is properly organized within the project structure.
+- Method Extraction: The calculation and event handling logic has been moved to a separate method processCalculation for better readability and maintainability.
+- Error Handling: Uses the message from the caught ArithmeticException to display more informative error messages directly related to the cause (like tangent undefined conditions).
+- Ensures that the string conversion handles locale-specific rules properly.
+
+## [1.0.1] - 2024-07-30
+### Fixed
+- Corrected an edge case error in Tangent calculation where input near PI/2 was not handled correctly.
+
+## [1.0.0] - 2024-07-25
+### Added
+- Initial release of the Transcendental Function Calculator with basic features in Main.java and Tangent.java.

@@ -6,7 +6,7 @@
     <!-- Project coordinates -->
     <groupId>com.soen6011</groupId>
     <artifactId>6011project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1.3</version>
     <packaging>jar</packaging>
 
     <!-- Project name and description -->
@@ -14,6 +14,7 @@
     <description>A Java project for SOEN6011.</description>
 
     <!-- Set Java version -->
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
@@ -26,9 +27,20 @@
         <!-- Example dependency: JUnit 5 -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.7.0</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.sonarsource.scanner.api</groupId>
+            <artifactId>sonar-scanner-api</artifactId>
+            <version>2.16.2.588</version>
         </dependency>
     </dependencies>
 
