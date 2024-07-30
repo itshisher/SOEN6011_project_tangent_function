@@ -3,6 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Locale;
 
+
 /**
  * Main class to set up and display the GUI for the Transcendental Function Calculator.
  */
